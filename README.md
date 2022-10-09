@@ -1,6 +1,6 @@
 # -CUS1115-OOPinJavaIntro
 
-Used toUpperCase(), toLowerCase(), and calculated character length of words.
+Calculated character length of words. Used toUpperCase() and toLowerCase().
 
 /*
 The length of goodbye is 7
